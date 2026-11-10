@@ -1,0 +1,3 @@
+# Keep everything out of GitHub's auto "Source code" archives
+README*        export-ignore
+.gitattributes export-ignore
